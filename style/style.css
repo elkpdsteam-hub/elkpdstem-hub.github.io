@@ -359,9 +359,12 @@ table {
 
 .page a {
   display: block;
-  margin-top: 30px;
   width: 80%;
   margin: auto;
+}
+
+.page a img {
+  margin: 30px 0;
 }
 
 /* BREAK POINT */
